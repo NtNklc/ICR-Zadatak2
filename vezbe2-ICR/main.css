@@ -1,0 +1,18 @@
+#intro{
+    background-color:#25002E;
+    color: #F6F1FF;
+}
+#zuto{
+    background-color: #FFC631;
+    color: #25002E;
+    border-width: 2;
+
+    border-color: #AE47F7;
+}
+.container{
+    padding-top: 1em;
+}
+#pink{
+    background-color: #DEAFFF;
+    color: #25002E;
+}
